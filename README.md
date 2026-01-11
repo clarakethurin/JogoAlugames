@@ -38,17 +38,6 @@ Evento DOMContentLoaded
 
 Inicializa o sistema contando quantos jogos já estão marcados como alugados.
 
-📂 Estrutura esperada no HTML
-
-O JavaScript espera elementos com esta estrutura:
-
-<div class="dashboard__item" id="game-1">
-    <img class="dashboard__item__img" src="..." />
-    <h2 class="dashboard__item__name">Nome do Jogo</h2>
-    <button class="dashboard__item__button" onclick="alterarStatus(1)">Alugar</button>
-</div>
-
-
 Classes utilizadas:
 
 .dashboard__item__img
